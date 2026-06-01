@@ -1,0 +1,10 @@
+.vs/
+build/
+out/
+*.user
+*.suo
+*.VC.db
+*.opendb
+*.pdb
+*.ilk
+*.exe
